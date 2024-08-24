@@ -1,0 +1,42 @@
+{
+    "name": "ماكس",
+    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "logo" : "https://telegra.ph/file/03671e4f4db95bfbdf9d2.jpg",
+    "stack": "container",
+    "repository": "https://github.com/abbasabb55/rhy",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/abbasabb55/rhy",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "21081318",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "51312b0c5cb2f9414a015534d7b529a3",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "7265096334:AAH-J0kEDUK4ABNGHndDhsgsV-LSo6LcwvQ",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "i_R_Ybot",
+            "required": true
+        }
+    }
+}
+
+
